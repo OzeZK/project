@@ -1,0 +1,7 @@
+nama = "Ocean"
+kelas = "XI.12"
+coding_menurutku = "abstrak"
+
+print("nama = ocean")
+print("kelas = XI.12")
+print("coding menurutku = abstrak")
